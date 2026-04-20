@@ -5,11 +5,10 @@
   "build": 2,
   "presets": [
     {
-      "name": "富士胶片",
-      "coverPath": "images/fsjp_01.webp",
+      "name": "自然",
+      "coverPath": "https://cdn.jsdelivr.net/gh/lieyanzeng/OMaster@main/presets/v1/image/1.jpg",
       "galleryImages": [
-        "images/fsjp_02.webp",
-        "images/fsjp_03.webp"
+        "https://cdn.jsdelivr.net/gh/lieyanzeng/OMaster@main/presets/v1/image/1.jpg"
       ],
       "author": "@LinWeiZeng",
       "sections": [
@@ -18,37 +17,37 @@
           "items": [
             {
               "label": "@string/param_filter",
-              "value": "复古 60%",
+              "value": "自然 100%",
               "span": 2
             },
             {
               "label": "@string/param_soft_light",
-              "value": "柔美",
+              "value": "梦幻",
               "span": 1
             },
             {
               "label": "@string/param_tone_curve",
-              "value": "+48",
+              "value": "+31",
               "span": 1
             },
             {
               "label": "@string/param_saturation",
-              "value": "+10",
+              "value": "+29",
               "span": 1
             },
             {
               "label": "@string/param_warm_cool",
-              "value": "-8",
+              "value": "-28",
               "span": 1
             },
             {
               "label": "@string/param_cyan_magenta",
-              "value": "+4",
+              "value": "+9",
               "span": 1
             },
             {
               "label": "@string/param_sharpness",
-              "value": "7",
+              "value": "0",
               "span": 1
             },
             {
@@ -64,7 +63,7 @@
       ],
       "description": {
         "title": "Shooting Tips",
-        "content": "【环境建议】室外的室内\n【场景推荐】街拍、人像、风景、建筑\n【拍摄要点】适合追求五彩斑斓的黑质感的场景，色彩单调又丰富，建议寻找有光影对比的场景增强层次感"
+        "content": "【环境建议】室外\n【场景推荐】风景、梅花\n【拍摄要点】适合追求五彩斑斓的黑质感的场景，色彩单调又丰富，建议寻找有光影对比的场景增强层次感"
       }
     }
   ]

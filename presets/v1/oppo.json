@@ -18,37 +18,37 @@
           "items": [
             {
               "label": "@string/param_filter",
-              "value": "自然 100%",
+              "value": "复古 60%",
               "span": 2
             },
             {
               "label": "@string/param_soft_light",
-              "value": "无",
+              "value": "柔美",
               "span": 1
             },
             {
               "label": "@string/param_tone_curve",
-              "value": "0",
+              "value": "+48",
               "span": 1
             },
             {
               "label": "@string/param_saturation",
-              "value": "+19",
+              "value": "+10",
               "span": 1
             },
             {
               "label": "@string/param_warm_cool",
-              "value": "-5",
+              "value": "-8",
               "span": 1
             },
             {
               "label": "@string/param_cyan_magenta",
-              "value": "0",
+              "value": "+4",
               "span": 1
             },
             {
               "label": "@string/param_sharpness",
-              "value": "15",
+              "value": "7",
               "span": 1
             },
             {
